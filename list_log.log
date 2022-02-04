@@ -1,0 +1,128 @@
+2022-01-31 03:05:43,852 INFO Logging begins here
+2022-01-31 03:05:43,857 INFO entered parameter is a list
+2022-01-31 03:05:43,857 INFO the length of the list is 5
+2022-01-31 03:05:43,857 INFO the count is 5
+2022-01-31 03:05:43,857 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:05:43,857 INFO the element at position 2 of the list is 100
+2022-01-31 03:05:43,857 INFO the maximum number in the list is 100
+2022-01-31 03:05:43,857 INFO the minimum number in the list is -4
+2022-01-31 03:07:24,837 INFO Logging begins here
+2022-01-31 03:07:24,837 INFO entered parameter is a list
+2022-01-31 03:07:24,837 INFO the length of the list is 5
+2022-01-31 03:07:24,837 INFO the count is 5
+2022-01-31 03:07:24,842 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:07:24,842 INFO the element at position 2 of the list is 100
+2022-01-31 03:07:24,842 INFO the maximum number in the list is 100
+2022-01-31 03:07:24,842 INFO the minimum number in the list is -4
+2022-01-31 03:08:59,257 INFO Logging begins here
+2022-01-31 03:08:59,257 INFO entered parameter is a list
+2022-01-31 03:08:59,257 INFO the length of the list is 5
+2022-01-31 03:08:59,257 INFO the count is 5
+2022-01-31 03:08:59,262 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:08:59,262 INFO the element at position 2 of the list is 100
+2022-01-31 03:08:59,262 INFO the maximum number in the list is 100
+2022-01-31 03:08:59,262 INFO the minimum number in the list is -4
+2022-01-31 03:09:19,107 INFO Logging begins here
+2022-01-31 03:09:19,107 INFO entered parameter is a list
+2022-01-31 03:09:19,107 INFO the length of the list is 5
+2022-01-31 03:09:19,107 INFO the count is 5
+2022-01-31 03:09:19,107 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:09:19,107 INFO the element at position 2 of the list is 100
+2022-01-31 03:09:19,107 INFO the maximum number in the list is 100
+2022-01-31 03:09:19,107 INFO the minimum number in the list is -4
+2022-01-31 03:09:33,782 INFO Logging begins here
+2022-01-31 03:09:33,782 INFO entered parameter is a list
+2022-01-31 03:09:33,782 INFO the length of the list is 5
+2022-01-31 03:09:33,782 INFO the count is 5
+2022-01-31 03:09:33,782 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:09:33,782 INFO the element at position 2 of the list is 100
+2022-01-31 03:09:33,782 INFO the maximum number in the list is 100
+2022-01-31 03:09:33,782 INFO the minimum number in the list is -4
+2022-01-31 03:13:26,189 INFO Logging begins here
+2022-01-31 03:13:26,189 INFO entered parameter is a list
+2022-01-31 03:13:26,189 INFO the length of the list is 5
+2022-01-31 03:13:26,189 INFO the count is 5
+2022-01-31 03:13:26,189 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:13:26,189 INFO the element at position 2 of the list is 100
+2022-01-31 03:13:26,189 INFO the maximum number in the list is 100
+2022-01-31 03:13:26,189 INFO the minimum number in the list is -4
+2022-01-31 03:15:02,676 INFO Logging begins here
+2022-01-31 03:15:02,686 INFO entered parameter is a list
+2022-01-31 03:15:02,686 INFO the length of the list is 5
+2022-01-31 03:15:02,686 INFO the count is 5
+2022-01-31 03:15:02,686 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:15:02,686 INFO the element at position 2 of the list is 100
+2022-01-31 03:15:02,686 INFO the maximum number in the list is 100
+2022-01-31 03:15:02,686 INFO the minimum number in the list is -4
+2022-01-31 03:16:08,028 INFO Logging begins here
+2022-01-31 03:16:08,028 INFO entered parameter is a list
+2022-01-31 03:16:08,028 INFO the length of the list is 5
+2022-01-31 03:16:08,028 INFO the count is 5
+2022-01-31 03:16:08,028 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:16:08,028 INFO the element at position 2 of the list is 100
+2022-01-31 03:16:08,028 INFO the maximum number in the list is 100
+2022-01-31 03:16:08,028 INFO the minimum number in the list is -4
+2022-01-31 03:18:01,106 INFO Logging begins here
+2022-01-31 03:18:01,106 INFO entered parameter is a list
+2022-01-31 03:18:01,106 INFO the length of the list is 5
+2022-01-31 03:18:01,106 INFO the count is 5
+2022-01-31 03:18:01,106 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:18:01,106 INFO the element at position 2 of the list is 100
+2022-01-31 03:18:01,106 INFO the maximum number in the list is 100
+2022-01-31 03:18:01,106 INFO the minimum number in the list is -4
+2022-01-31 03:18:26,806 INFO Logging begins here
+2022-01-31 03:18:26,806 INFO entered parameter is a list
+2022-01-31 03:18:26,806 INFO the length of the list is 5
+2022-01-31 03:18:26,806 INFO the count is 5
+2022-01-31 03:18:26,806 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:18:26,806 INFO the element at position 2 of the list is 100
+2022-01-31 03:18:26,806 INFO the maximum number in the list is 100
+2022-01-31 03:18:26,806 INFO the minimum number in the list is -4
+2022-01-31 03:18:34,056 INFO Logging begins here
+2022-01-31 03:18:34,056 INFO entered parameter is a list
+2022-01-31 03:18:34,056 INFO the length of the list is 5
+2022-01-31 03:18:34,056 INFO the count is 5
+2022-01-31 03:18:34,056 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:18:34,056 INFO the element at position 2 of the list is 100
+2022-01-31 03:18:34,056 INFO the maximum number in the list is 100
+2022-01-31 03:18:34,056 INFO the minimum number in the list is -4
+2022-01-31 03:18:38,906 INFO Logging begins here
+2022-01-31 03:18:38,906 INFO entered parameter is a list
+2022-01-31 03:18:38,906 INFO the length of the list is 5
+2022-01-31 03:18:38,906 INFO the count is 5
+2022-01-31 03:18:38,906 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:18:38,906 INFO the element at position 2 of the list is 100
+2022-01-31 03:18:38,906 INFO the maximum number in the list is 100
+2022-01-31 03:18:38,906 INFO the minimum number in the list is -4
+2022-01-31 03:18:53,796 INFO Logging begins here
+2022-01-31 03:18:53,796 INFO entered parameter is a list
+2022-01-31 03:18:53,796 INFO the length of the list is 5
+2022-01-31 03:18:53,796 INFO the count is 5
+2022-01-31 03:18:53,796 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:18:53,796 INFO the element at position 2 of the list is 100
+2022-01-31 03:18:53,796 INFO the maximum number in the list is 100
+2022-01-31 03:18:53,796 INFO the minimum number in the list is -4
+2022-01-31 03:19:15,596 INFO Logging begins here
+2022-01-31 03:19:15,596 INFO entered parameter is a list
+2022-01-31 03:19:15,596 INFO the length of the list is 5
+2022-01-31 03:19:15,596 INFO the count is 5
+2022-01-31 03:19:15,596 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:19:15,596 INFO the element at position 2 of the list is 100
+2022-01-31 03:19:15,596 INFO the maximum number in the list is 100
+2022-01-31 03:19:15,596 INFO the minimum number in the list is -4
+2022-01-31 03:19:25,081 INFO Logging begins here
+2022-01-31 03:19:25,081 INFO entered parameter is a list
+2022-01-31 03:19:25,081 INFO the length of the list is 5
+2022-01-31 03:19:25,081 INFO the count is 5
+2022-01-31 03:19:25,081 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:19:25,081 INFO the element at position 2 of the list is 100
+2022-01-31 03:19:25,081 INFO the maximum number in the list is 100
+2022-01-31 03:19:25,081 INFO the minimum number in the list is -4
+2022-01-31 03:20:00,736 INFO Logging begins here
+2022-01-31 03:20:00,736 INFO entered parameter is a list
+2022-01-31 03:20:00,736 INFO the length of the list is 5
+2022-01-31 03:20:00,736 INFO the count is 5
+2022-01-31 03:20:00,736 INFO the new inserted list at position 2 is [9, 5, 100, -1, -4, 0]
+2022-01-31 03:20:00,736 INFO the element at position 2 of the list is 100
+2022-01-31 03:20:00,736 INFO the maximum number in the list is 100
+2022-01-31 03:20:00,736 INFO the minimum number in the list is -4

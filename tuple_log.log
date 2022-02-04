@@ -1,0 +1,8 @@
+2022-01-31 08:07:11,209 INFO logging begins here
+2022-01-31 08:07:11,209 INFO Entered tuple is a tuple object
+2022-01-31 08:07:11,209 INFO the length of the tuple is 4
+2022-01-31 08:07:11,209 INFO the count is 5
+2022-01-31 08:07:11,210 INFO the new inserted tuple at position 0 is (109, -1, 9, 4, 5, 3)
+2022-01-31 08:07:11,210 INFO the element at position 1 is -1
+2022-01-31 08:07:11,210 INFO the maximum element in the tuple (109, -1, 9, 4, 5, 3) is 109
+2022-01-31 08:07:11,210 INFO the minimum element in the tuple (109, -1, 9, 4, 5, 3) is -1

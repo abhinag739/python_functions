@@ -1,0 +1,16 @@
+2022-02-05 02:57:34,749 INFO logging begins here
+2022-02-05 02:57:34,749 INFO the keys in the dictionary {'level1': {'level2': {'levelA': 0, 'levelB': 1}}} are
+2022-02-05 02:57:34,750 INFO level1
+2022-02-05 02:57:34,750 INFO level2
+2022-02-05 02:57:34,750 INFO levelA
+2022-02-05 02:57:34,750 INFO levelB
+2022-02-05 02:57:34,750 INFO the values in the dictionary {'level1': {'level2': {'levelA': 0, 'levelB': 1}}} are
+2022-02-05 02:57:34,750 INFO 0
+2022-02-05 02:57:34,750 INFO 1
+2022-02-05 02:57:34,750 INFO the updated dictionary is {'levelA': 0, 'levelB': 10}
+2022-02-05 02:57:34,750 INFO the updated dictionary is {'level2': None}
+2022-02-05 02:57:34,751 INFO the updated dictionary is {'level1': None}
+2022-02-05 02:57:34,751 INFO the value of the given key level1 is {'level2': {'levelA': 0, 'levelB': 1}}
+2022-02-05 02:57:34,751 INFO the updated dictionary is {'a': 5, 'b': 56, 'c': 78, 'd': 40}
+2022-02-05 02:57:34,751 INFO the last inserted key of the dictionary is d
+2022-02-05 02:57:34,751 INFO the last inserted key, value pair of the passed dictionary is d:40
